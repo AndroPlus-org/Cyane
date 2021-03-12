@@ -4,7 +4,7 @@ Japanese TrueType font obtained by mixing M+ FONTS and Open Sans.
 
 ## Components
 
-This font is based on Koruri.
+This font is based on Koruri and changed the height to match with MIUI.
 In Koruri-20180915, Generate Script is available on [Koruri/Scripts (c1513fc)](https://github.com/Koruri/Scripts/tree/c1513fc6e00242eaeb129b3267634dad8b79c3e0).
 
 | Koruri | M+ 1p | Open Sans | Roboto
